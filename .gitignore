@@ -1,0 +1,7 @@
+/.DS_Store
+*/.DS_Store
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+input_data/
+Individual Notes/
+output_data/
