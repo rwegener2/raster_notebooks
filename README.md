@@ -52,7 +52,8 @@ When you start using the notebooks your folder structure should look like this:
         ├── _f100520t01p00r08rdn_b_ort_igm.hdr_
         ├── f100520t01p00r08rdn_b_sc01_ort_img
         ├── f100520t01p00r08rdn_b_sc01_ort_img.hdr
-        └── f100520t01p00r08rdn_b_sc01_ort_img.sta```
+        └── f100520t01p00r08rdn_b_sc01_ort_img.sta
+ ```
 
 The data files surrounded in _ will be included in the download but won't be used in the demo.
 
