@@ -16,7 +16,7 @@ https://aviris.jpl.nasa.gov/aviris_locator/y10_RGB/f100520t01p00r08_sc01_RGB.jpe
 To set up your folder structure so you can directly use the imports in these notebooks create a folder called `input_data` in the same spot as the `Notebooks` folder that holds the example notebooks.  Unzip your downloaded data in that folder.
 
 When you start using the notebooks your folder structure should look like this:
-.
+```.
 ├── Comment-free Notebooks (notetaking)
 │   ├── 01_Working with rasters_code-only.ipynb
 │   └── Coordinate Systems and Affine Transforms_code-only.ipynb
@@ -52,9 +52,9 @@ When you start using the notebooks your folder structure should look like this:
         ├── _f100520t01p00r08rdn_b_ort_igm.hdr_
         ├── f100520t01p00r08rdn_b_sc01_ort_img
         ├── f100520t01p00r08rdn_b_sc01_ort_img.hdr
-        └── f100520t01p00r08rdn_b_sc01_ort_img.sta
+        └── f100520t01p00r08rdn_b_sc01_ort_img.sta```
 
-The data files in italics will be included in the download but won't be used in the demo.
+The data files surrounded in _ will be included in the download but won't be used in the demo.
 
 ## Additional resources
 [Python GIS Examples](https://automating-gis-processes.github.io/CSC18/lessons/L1/Intro-Python-GIS.html)
